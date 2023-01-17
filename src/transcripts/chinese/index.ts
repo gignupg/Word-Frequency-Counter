@@ -1,0 +1,36 @@
+import algebra from "./algebra";
+import artificialInteligence from "./artificialInteligence";
+import becomingRich from "./becomingRich";
+import bookReview from "./bookReview";
+import chatGPT from "./chatGPT";
+import climateChange from "./climateChange";
+import confidence from "./confidence";
+import coronavirus from "./coronavirus";
+import crispr from "./crispr";
+import datingAdvice from "./datingAdvice";
+import elonMusk from "./elonMusk";
+import exoplanets from "./exoplanets";
+import geopolitics from "./geopolitics";
+import happiness from "./happiness";
+import healthySleep from "./healthySleep";
+import investing from "./investing";
+import jobInterview from "./jobInterview";
+import joiningAStartup from "./joiningAStartup";
+import kobyBryant from "./kobyBryant";
+import lucidDreaming from "./lucid-dreaming";
+import magicTricks from "./magicTricks";
+import makePeopleLikeYou from "./makePeopleLikeYou";
+import meditation from "./meditation";
+import motivationalTalk from "./motivationalTalk";
+import positiveThinking from "./positiveThinking";
+import programmingLanguages from "./programmingLanguages";
+import relievingCough from "./relievingCough";
+import returnToTheMoon from "./returnToTheMoon";
+import selfLove from "./selfLove";
+import spaceImages from "./spaceImages";
+import studyEfficiently from "./studyEfficiently";
+import ukraineWar from "./ukraineWar";
+
+const videos = [lucidDreaming, chatGPT, programmingLanguages, climateChange, meditation, ukraineWar, becomingRich, positiveThinking, bookReview, makePeopleLikeYou, elonMusk, returnToTheMoon, joiningAStartup, jobInterview, investing, studyEfficiently, datingAdvice, selfLove, coronavirus, happiness, relievingCough, healthySleep, kobyBryant, motivationalTalk, crispr, algebra, geopolitics, artificialInteligence, spaceImages, exoplanets, confidence, magicTricks];
+
+export default videos;
