@@ -18,7 +18,7 @@ function App() {
     const dict: Dict = {};
     for (const video of videos) {
       if (!video.videoId) console.log("You forgot the videoId!");
-      const arr = video.transcript.toLowerCase().split(" ");
+      const arr = video.transcript.pinyin.toLowerCase().split(" ");
       const foundInDict: FoundInDict = {};
       for (const word of arr) {
         if (!dict[word]) dict[word] = { occurences: 0, foundIn: 0 };
