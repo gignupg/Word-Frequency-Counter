@@ -1,5 +1,5 @@
 import math from "./math";
-import artificialInteligence from "./artificialInteligence";
+import artificialIntelligence from "./artificialIntelligence";
 import becomingRich from "./becomingRich";
 import bookReview from "./bookReview";
 import chatGPT from "./chatGPT";
@@ -31,7 +31,7 @@ import spaceExploration from "./spaceExploration";
 import studyEfficiently from "./studyEfficiently";
 import ukraineWar from "./ukraineWar";
 
-const videos = [math, artificialInteligence, becomingRich, bookReview, chatGPT, climateChange, confidence, coronavirus, crispr, datingAdvice, elonMusk, exoplanets, geopolitics, happiness, healthySleep, investing, jobInterview, startups, kobeBryant, lucidDreaming, magicTricks, makePeopleLikeYou, meditation, motivation, positiveThinking, programmingLanguages, relievingCough, returnToTheMoon, selfLove, spaceExploration, studyEfficiently, ukraineWar];
+const videos = [math, artificialIntelligence, becomingRich, bookReview, chatGPT, climateChange, confidence, coronavirus, crispr, datingAdvice, elonMusk, exoplanets, geopolitics, happiness, healthySleep, investing, jobInterview, startups, kobeBryant, lucidDreaming, magicTricks, makePeopleLikeYou, meditation, motivation, positiveThinking, programmingLanguages, relievingCough, returnToTheMoon, selfLove, spaceExploration, studyEfficiently, ukraineWar];
 
 export default videos;
 
