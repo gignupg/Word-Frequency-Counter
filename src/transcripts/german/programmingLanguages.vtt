@@ -1,0 +1,799 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.000 --> 00:00:02.880
+Python dominiert die Programmiersprachen.
+
+00:00:02.880 --> 00:00:07.060
+JavaScript wird am meisten genutzt und C wird wieder beliebter.
+
+00:00:07.060 --> 00:00:10.160
+Jeder nutzt Git und React ist das beliebteste Web-Framework.
+
+00:00:10.160 --> 00:00:12.840
+Aber warum ist das eigentlich so?
+
+00:00:12.840 --> 00:00:23.560
+Und was solltet ihr am besten lernen im Zoo der Programmiersprachen 2023?
+
+00:00:23.560 --> 00:00:27.640
+Es gibt zwei große Quellen, die uns Entwicklern einen guten Überblick geben, mit was unsere
+
+00:00:27.640 --> 00:00:29.040
+Kollegen so arbeiten.
+
+00:00:29.040 --> 00:00:31.960
+Die Stackoverflow-Umfrage und den TIOBE Index.
+
+00:00:31.960 --> 00:00:36.400
+Beide sind natürlich nicht perfekt, aber es geht um eine Richtung, was euch demnächst
+
+00:00:36.400 --> 00:00:37.400
+erwarten könnte.
+
+00:00:37.400 --> 00:00:40.640
+Dieses Video hier habe ich übrigens auch schon die letzten beiden Jahre gemacht.
+
+00:00:40.640 --> 00:00:42.880
+Dieses Jahr wird es deswegen ein bisschen anders.
+
+00:00:42.880 --> 00:00:47.740
+Wir wollen darüber reden, warum Dinge so sind, wie sie sind und für wen jeweils was
+
+00:00:47.740 --> 00:00:48.740
+relevant ist.
+
+00:00:48.740 --> 00:00:51.360
+Ihr dürft dann selber entscheiden, wo ihr euch einordnet.
+
+00:00:51.360 --> 00:00:54.720
+Ich werde noch den Vergleich zu den letzten Jahren ziehen oder zu vor allem den letzten
+
+00:00:54.720 --> 00:00:55.720
+Jahr.
+
+00:00:55.720 --> 00:00:59.800
+Das hier war trotzdem nur das erste von 5 solcher Videos, die euch in den nächsten
+
+00:00:59.800 --> 00:01:01.800
+Wochen erwarten zu verschiedenen Themen.
+
+00:01:01.800 --> 00:01:06.560
+Und passend zum Thema sehen wir eines, das zumindest meine Entwicklung in der jüngsten
+
+00:01:06.560 --> 00:01:08.240
+Zeit komplett dominiert hat.
+
+00:01:08.240 --> 00:01:09.240
+Chat-GPT.
+
+00:01:09.240 --> 00:01:12.040
+Die KI, zu der ich schon ein Video gemacht habe.
+
+00:01:12.040 --> 00:01:15.400
+Doch ich war zwischen Weihnachten und Neujahr nicht untätig, sondern an einer Entwicklung
+
+00:01:15.400 --> 00:01:17.200
+mit einigen tausend Zeilen Code beteiligt.
+
+00:01:17.200 --> 00:01:19.800
+Alles davon mit Chat-GPT.
+
+00:01:19.800 --> 00:01:25.120
+Und meine Erfahrung möchte ich mit euch teilen bei der Job I.O. von Get in IT.
+
+00:01:25.120 --> 00:01:28.440
+Das ist eine Jobmesse, die Get in IT regelmäßig veranstaltet.
+
+00:01:28.440 --> 00:01:34.800
+Das nächste Mal am 26.01. um 14 Uhr und natürlich vollständig online und für euch kostenlos.
+
+00:01:34.800 --> 00:01:38.760
+Dieses Mal ist das Thema Softwareentwicklung und auch ich darf einen kleinen Vortrag mit
+
+00:01:38.760 --> 00:01:40.920
+euch teilen, direkt am Anfang.
+
+00:01:40.920 --> 00:01:42.480
+Registriert euch deswegen schon jetzt.
+
+00:01:42.480 --> 00:01:46.720
+Ich freue mich wahnsinnig auf euch und nutze am besten einfach den Link in der Beschreibung.
+
+00:01:46.720 --> 00:01:51.960
+JavaScript hat wie auch letztes Jahr bei Stack Overflow den ersten Platz belegt.
+
+00:01:51.960 --> 00:01:56.240
+Das heißt, was am meisten genutzt wird und zwar mit einem ordentlichen Abstand.
+
+00:01:56.240 --> 00:02:01.400
+Die erste andere Sprache, die dann wirklich noch genutzt wurde, ist Python von über 20%
+
+00:02:01.400 --> 00:02:03.920
+weniger Leuten im professionellen Umfeld.
+
+00:02:03.920 --> 00:02:07.920
+Zum Programmieren lernen ist es allerdings die zweitbeliebteste Sprache.
+
+00:02:07.920 --> 00:02:09.360
+HTML zählt nicht.
+
+00:02:09.360 --> 00:02:12.560
+Spannend ist aber speziell hier der Vergleich zum Vorjahr.
+
+00:02:12.560 --> 00:02:18.320
+JavaScript wird im Vergleich von weniger professionellen Entwicklern genutzt, während Python gestiegen
+
+00:02:18.320 --> 00:02:19.320
+ist.
+
+00:02:19.320 --> 00:02:23.080
+Die Erklärung, warum JavaScript so beliebt ist, ist aber trotzdem sehr einfach.
+
+00:02:23.080 --> 00:02:27.760
+JavaScript ist die einzige Sprache, die wirklich für Websiteentwicklung im Frontend genutzt
+
+00:02:27.760 --> 00:02:28.760
+wird.
+
+00:02:28.760 --> 00:02:33.520
+Alle Frameworks im Webdevelopment Frontend werden mit JavaScript eigentlich benutzt.
+
+00:02:33.520 --> 00:02:39.120
+Und auch serverseitiger Code für Webapps wird häufig mit JavaScript geschrieben.
+
+00:02:39.120 --> 00:02:44.200
+Node.js führt tatsächlich sogar die Liste der Webframeworks kurz vor React an.
+
+00:02:44.200 --> 00:02:49.680
+Das heißt, von allen JavaScript-Entwicklern arbeiten etwa die Hälfte auch im Backend
+
+00:02:49.680 --> 00:02:50.680
+mit JavaScript.
+
+00:02:50.680 --> 00:02:55.160
+Und sogar dort läuft JavaScript in mehr als der Hälfte der Fälle in Kombination mit dem
+
+00:02:55.160 --> 00:02:59.200
+Express Framework, was die Arbeit mit APIs stark vereinfacht.
+
+00:02:59.200 --> 00:03:04.200
+React hingegen ist das beliebteste Frontend-Framework natürlich auch in JavaScript.
+
+00:03:04.200 --> 00:03:10.600
+Das zweite ist Angular, allerdings mit deutlichem Abstand und ein wenig später kommt Vue.js.
+
+00:03:10.600 --> 00:03:15.440
+Spannend ist aber auch, dass gerade unter den professionellen Entwicklern ASP.NET Core die
+
+00:03:15.440 --> 00:03:22.080
+20%-Marke mittlerweile geknackt hat und damit Vue.js im Vergleich zum Vorjahr überholt hat.
+
+00:03:22.080 --> 00:03:26.280
+Hinter der JavaScript- und der C-Sharp-Fraktion kommt dann Python im Bettbereich mit seinen
+
+00:03:26.280 --> 00:03:28.280
+Frameworks Flask und Django.
+
+00:03:28.280 --> 00:03:32.640
+Da aber Python und C-Sharp im Frontend eigentlich nicht zu finden sind, kann man hier ziemlich
+
+00:03:32.640 --> 00:03:38.480
+gut sagen, dass JavaScript immer noch die Sprache für Web 2023 bleiben wird, sowohl
+
+00:03:38.480 --> 00:03:41.800
+im Frontend als auch zu einem großen Teil im Backend.
+
+00:03:41.800 --> 00:03:46.920
+Denn es bietet sich einfach an, wenn man nach Fullstack-Entwicklern sucht, ihnen nur eine
+
+00:03:46.920 --> 00:03:51.160
+Programmiersprache zu geben und dafür einfach zwei Frameworks, nämlich React zum Beispiel
+
+00:03:51.160 --> 00:03:53.720
+im Frontend, Node und Express im Backend.
+
+00:03:53.720 --> 00:03:58.000
+Werden die Teams aufgeteilt, also man hat Leute, die nur Frontend machen und Leute,
+
+00:03:58.000 --> 00:04:01.760
+die nur Backend machen, dann hat man eher die Wahl.
+
+00:04:01.760 --> 00:04:07.880
+Übrigens TypeScript als Add-on für JavaScript hat sich unter allen Programmiersprachen insgesamt
+
+00:04:07.880 --> 00:04:14.040
+den Rang Nummer 5 erarbeitet, wobei davor auch SQL und HTML-CSS dabei waren.
+
+00:04:14.040 --> 00:04:17.840
+Also von den reinen Sprachen ist es sogar auf Platz 3.
+
+00:04:17.840 --> 00:04:23.760
+Spannend dabei, in der Umfrage, ob JavaScript geliebt oder gehasst wird, sagten nur 62%
+
+00:04:23.760 --> 00:04:25.520
+dass sie JavaScript wirklich mögen.
+
+00:04:25.520 --> 00:04:33.600
+Bei TypeScript waren es 72% und das macht TypeScript die drittbeliebteste Sprache bei
+
+00:04:33.600 --> 00:04:34.600
+Stack Overflow.
+
+00:04:34.600 --> 00:04:38.320
+Witzigerweise sieht's bei den Webframeworks komplett anders aus.
+
+00:04:38.320 --> 00:04:45.880
+Beliebt sind vor allem Phoenix von Elexia, Svelte für JavaScript, ASP.NET Core und Deno.
+
+00:04:45.880 --> 00:04:48.760
+Richtig unbeliebt ist dagegen AngularJS.
+
+00:04:48.760 --> 00:04:53.920
+Leider sieht die Bezahlung im Webbereich auch nicht ganz so rosig aus.
+
+00:04:53.920 --> 00:05:00.320
+JavaScript ist mit einem jährlichen Durchschnittsgehalt von 65.000 Dollar in den Top 10, allerdings
+
+00:05:00.320 --> 00:05:01.320
+von unten.
+
+00:05:01.320 --> 00:05:06.280
+Und richtig gut bezahlt wird hingegen Phoenix und Ruby on Rails.
+
+00:05:06.280 --> 00:05:09.760
+Vielleicht ist das der Grund, warum Phoenix und Elexia so beliebt sind.
+
+00:05:09.760 --> 00:05:15.000
+Auf Platz 2 hat sich aber wie auch im Jahr davor Python geschlichen.
+
+00:05:15.000 --> 00:05:20.560
+Mit fast der Hälfte der Stimmen zählt mittlerweile definitiv auch Python zu den Must-Haves.
+
+00:05:20.560 --> 00:05:24.200
+Gerade unter den Lernenden genießt Python eine unfassbare Beliebtheit.
+
+00:05:24.200 --> 00:05:29.120
+Die Sprache ist einfach zu lernen und ziemlich flexibel, man kann sie fast überall anwenden.
+
+00:05:29.120 --> 00:05:35.480
+Man findet Python im Webbereich etwas, aber vielmehr ist Python ein Allrounder.
+
+00:05:35.480 --> 00:05:39.800
+Deswegen gab's auch im Tiobe Index den Platz 1 für Python.
+
+00:05:39.800 --> 00:05:44.880
+Schaut man unter den beliebtesten anderen, also nicht den Webframeworks, findet man direkt
+
+00:05:44.880 --> 00:05:47.800
+unter dem.NET Framework NumPy und Pandas.
+
+00:05:47.800 --> 00:05:52.520
+Das sind wohl die beiden wichtigsten Bibliotheken für Data Science und Machine Learning.
+
+00:05:52.520 --> 00:05:58.720
+Da.NET meiner Meinung nach schon fast eine Umgebung ist und der Platz 4 Spring eigentlich
+
+00:05:58.720 --> 00:06:04.080
+ein Webframework ist für Java, holt sich Python also quasi die ersten drei Plätze,
+
+00:06:04.080 --> 00:06:07.600
+denn nach Spring landet TensorFlow direkt auf dem nächsten Platz.
+
+00:06:07.600 --> 00:06:12.720
+TensorFlow ist das Framework schlechthin für neuronale Netze und künstliche Intelligenz
+
+00:06:12.720 --> 00:06:15.120
+und ist auch meistens in Python benutzt.
+
+00:06:15.120 --> 00:06:19.920
+Nach Flutter, einem Framework für App-Entwicklung, kommt dann auch wieder was von Python, nämlich
+
+00:06:19.920 --> 00:06:23.440
+Scikit-Learn und kurz darauf Kafka und PyTorch.
+
+00:06:23.440 --> 00:06:27.440
+Alles Frameworks, die häufig mit Python genutzt werden.
+
+00:06:27.440 --> 00:06:31.480
+Spannend ist hier aber der Unterschied zwischen den professionellen Entwicklern und denen,
+
+00:06:31.480 --> 00:06:33.920
+die gerade Coden lernen oder ein Hobbyprojekt machen.
+
+00:06:33.920 --> 00:06:40.760
+Professionell wird weniger NumPy eingesetzt, aber wenn NumPy, dann eigentlich auch immer
+
+00:06:40.760 --> 00:06:41.760
+mit Pandas.
+
+00:06:41.760 --> 00:06:45.400
+Kafka hingegen wird kaum gelernt, nur 2%.
+
+00:06:45.400 --> 00:06:49.280
+Im professionellen Umfeld hingegen ist es aber deutlich häufiger vertreten als sogar
+
+00:06:49.280 --> 00:06:50.280
+TensorFlow.
+
+00:06:50.280 --> 00:06:53.160
+Das bestätigt auch ein wenig meine Beobachtung.
+
+00:06:53.160 --> 00:06:57.560
+Python wird überdurchschnittlich häufig für private Projekte zum Lernen oder für
+
+00:06:57.560 --> 00:06:59.280
+Dinge genutzt, die einfach Spaß machen.
+
+00:06:59.280 --> 00:07:04.600
+Klar, professionell ist es auch viel im Einsatz, vor allem im Data-Science-Bereich, aber insgesamt
+
+00:07:04.600 --> 00:07:10.760
+arbeiten einfach weniger Menschen als Data-Scientists als beispielsweise als Web-Developer.
+
+00:07:10.760 --> 00:07:14.640
+Besonders interessant ist aber auch hier der Vergleich zu letztem Jahr.
+
+00:07:14.640 --> 00:07:21.040
+Während die Data-Science- und Machine-Learning-Frameworks wie NumPy, Pandas oder TensorFlow im professionellen
+
+00:07:21.040 --> 00:07:27.560
+Umfeld sogar etwas zurückgegangen sind, ist Kafka von gar nicht vorhanden auf fast 12%
+
+00:07:27.560 --> 00:07:28.560
+gestiegen.
+
+00:07:28.560 --> 00:07:31.200
+Insgesamt ist Python aber beliebt, auf dem 6.
+
+00:07:31.200 --> 00:07:35.760
+Platz mit 67% der Stimmen, die sagen, dass Python eigentlich toll ist.
+
+00:07:35.760 --> 00:07:40.840
+Allerdings ist auch Python, was die Bezahlung angeht, eher in der unteren Hälfte angesiedelt.
+
+00:07:40.840 --> 00:07:46.200
+Spark und Kafka hingegen sind die beiden Frameworks, die am besten bezahlt werden.
+
+00:07:46.200 --> 00:07:51.080
+Es kommt also bei Python wohl extrem darauf an, in welchem Bereich man arbeitet und wo
+
+00:07:51.080 --> 00:07:52.080
+man Experte ist.
+
+00:07:52.080 --> 00:07:58.880
+Wenn man sich allerdings in die Nähe der Hardware begibt, wird Python und JavaScript
+
+00:07:58.880 --> 00:08:00.200
+schnell nicht mehr ausreichen.
+
+00:08:00.200 --> 00:08:08.680
+Stattdessen blicken wir auf 20% C++-Entwickler, 17% C-Entwickler und sogar 4,5% die mit Assembly
+
+00:08:08.680 --> 00:08:09.680
+arbeiten müssen.
+
+00:08:09.680 --> 00:08:14.280
+Dazu muss man kurz sagen, dass hier auch Entwickler für beispielsweise Python-Bibliotheken
+
+00:08:14.280 --> 00:08:17.640
+mit reinfallen, denn Python kann C-Bindings.
+
+00:08:17.640 --> 00:08:21.200
+Das heißt, wenn ihr eine Python-Bibliothek schreibt, könnt ihr das auch in C++ machen.
+
+00:08:21.200 --> 00:08:26.400
+Und auch wenn die drei eher im unteren Bereich der Beliebtheit angesiedelt sind, haben sie
+
+00:08:26.400 --> 00:08:31.960
+doch eine gewisse Fanbase und einen ziemlich einzigartigen Anwendungsbereich.
+
+00:08:31.960 --> 00:08:37.480
+Hardware-Bauteile programmieren, Firmware schreiben und das wahnsinnig effizient.
+
+00:08:37.480 --> 00:08:40.960
+Denn auf so einem kleinen Teil, auf so einem Chip, passt einfach nicht so viel drauf.
+
+00:08:40.960 --> 00:08:43.760
+Jetzt hat sich hier ja nicht wirklich was verändert zum Vorjahr.
+
+00:08:43.760 --> 00:08:44.920
+Warum also die Erwähnung?
+
+00:08:44.920 --> 00:08:49.680
+Ich vermute persönlich, dass in den nächsten Jahren und natürlich dementsprechend auch
+
+00:08:49.680 --> 00:08:55.040
+2023 der Bedarf an hardware-nahe Entwicklung nach oben gehen wird.
+
+00:08:55.040 --> 00:08:56.040
+Und zwar steil.
+
+00:08:56.040 --> 00:09:00.960
+Smart Home und IoT wird immer mehr und wer weiß, vielleicht gibt's das ja auch bald
+
+00:09:00.960 --> 00:09:03.160
+ein bisschen auf diesem Kanal hier.
+
+00:09:03.160 --> 00:09:08.240
+Während allerdings der Bedarf an neuen Apps, zumindest bei mir als Konsument auf einem All-Time-Low
+
+00:09:08.240 --> 00:09:12.560
+ist, ich hab gar keinen Bock mehr was Neues zu installieren, ist gerade einer der spannendsten
+
+00:09:12.560 --> 00:09:14.360
+Standards für IoT rausgekommen.
+
+00:09:14.360 --> 00:09:17.440
+Die Rede ist natürlich von Meta.
+
+00:09:17.440 --> 00:09:20.560
+Und das muss aber noch implementiert werden.
+
+00:09:20.560 --> 00:09:24.800
+Solange die durchschnittliche Bezahlung nur ganz knapp über der von Python liegt, müsste
+
+00:09:24.800 --> 00:09:29.520
+mir persönlich allerdings jemand einen ganz besonderen Anreiz geben, mir Assembly wirklich
+
+00:09:29.520 --> 00:09:30.520
+anzutun.
+
+00:09:30.520 --> 00:09:33.040
+Aber genau das ist im letzten Jahr eigentlich auch schon passiert.
+
+00:09:33.040 --> 00:09:40.720
+2021 war das durchschnittliche Jahresgehalt für Assembly 20.000 Dollar tiefer als heute.
+
+00:09:40.720 --> 00:09:44.120
+Das sind über 25% Steigerung.
+
+00:09:44.120 --> 00:09:48.360
+Fairerweise muss man dazu sagen, die Gehälter sind überall deutlich gestiegen, im Durchschnitt
+
+00:09:48.360 --> 00:09:50.600
+sind das etwa 23% gewesen.
+
+00:09:50.600 --> 00:09:55.520
+Dennoch steigt Assembly schneller als andere, was mir signalisiert, dass dort besonders viele
+
+00:09:55.520 --> 00:09:56.520
+Entwickler gebraucht werden.
+
+00:09:56.520 --> 00:09:59.960
+Wo wir aber gerade bei der Bezahlung sind.
+
+00:09:59.960 --> 00:10:03.240
+Die höchste Bezahlung hat derzeit nicht Kobol.
+
+00:10:03.240 --> 00:10:07.720
+Ich hab schon in ein paar Nachrichten von euch gehört, oder wohl gefragt, ob man irgendwie
+
+00:10:07.720 --> 00:10:10.880
+Kobol lernen soll für bessere Bezahlung, aber don't.
+
+00:10:10.880 --> 00:10:13.240
+Das will man wirklich nicht.
+
+00:10:13.240 --> 00:10:18.400
+Stattdessen ist Clojure dicht gefolgt von Erlang auf dem ersten Platz.
+
+00:10:18.400 --> 00:10:24.960
+Mit einem durchschnittlichen Gehalt von 106.000 Dollar pro Jahr ist Clojure wirklich gut bezahlt.
+
+00:10:24.960 --> 00:10:30.680
+Zum Vergleich mit Python oder TypeScript seid ihr mehr als 30% schlechter bezahlt.
+
+00:10:30.680 --> 00:10:34.920
+Phoenix als Webframework hatten wir ja schon, falls ihr LXE-Entwickler seid.
+
+00:10:34.920 --> 00:10:41.920
+Am besten arbeitet ihr dann noch mit Chef als DevOps und habt richtig viel Bezahlung.
+
+00:10:41.920 --> 00:10:45.360
+Die sind nämlich bei 120.000 Dollar im Jahr im Durchschnitt.
+
+00:10:45.360 --> 00:10:49.400
+Und wo wir schon gerade von DevOps sprechen, da steckt ja Ops drin, das heißt ihr macht
+
+00:10:49.400 --> 00:10:51.840
+auch Operations, also Server-Administration.
+
+00:10:51.840 --> 00:10:56.800
+Haltet euch da an klassisches Server-Hosting, also Co-Location, nicht Cloud, nicht AWS,
+
+00:10:56.800 --> 00:10:57.800
+sonst gar nichts.
+
+00:10:57.800 --> 00:11:02.400
+Einfach Co-Location, da sind die Gehälter nämlich bei 111.000 Dollar im Durchschnitt
+
+00:11:02.400 --> 00:11:03.400
+pro Jahr.
+
+00:11:03.400 --> 00:11:07.400
+Das Ganze ist natürlich nur so halbernst gemeint, wir sehen hier allerdings einen gewissen
+
+00:11:07.400 --> 00:11:08.400
+Trend.
+
+00:11:08.400 --> 00:11:13.000
+Die Gehälter sind wahnsinnig gestiegen, das liegt aber nicht zuletzt an der Inflation.
+
+00:11:13.000 --> 00:11:14.000
+Klar.
+
+00:11:14.000 --> 00:11:18.040
+Aber auf der anderen Seite sind ITler auch wahnsinnig wertvoll für ein Unternehmen und
+
+00:11:18.040 --> 00:11:20.320
+das wissen mittlerweile beide Seiten.
+
+00:11:20.320 --> 00:11:24.440
+In einem Job, in dem man den ganzen Tag in Jogginghose im eigenen Zuhause bleiben kann
+
+00:11:24.440 --> 00:11:28.600
+und sogar noch Spaß bei der Arbeit haben kann, sind solche Löhne wirklich angenehm.
+
+00:11:28.600 --> 00:11:37.200
+Apropos Cloud und Daten, im Bereich der Datenbanken dürfte die Sprache SQL keine große Überraschung
+
+00:11:37.200 --> 00:11:38.840
+sein, die ganz ganz vorne ist.
+
+00:11:38.840 --> 00:11:41.480
+Die ist Standard und wird das auch bleiben.
+
+00:11:41.480 --> 00:11:42.760
+Die sollte jeder können.
+
+00:11:42.760 --> 00:11:48.480
+Viel spannender sind da allerdings die Database-Management-Systeme, das heißt die Dinger, die eure Datenbanken
+
+00:11:48.480 --> 00:11:49.960
+verwalten, die Software hintendran.
+
+00:11:49.960 --> 00:11:54.840
+Und hier ist das erste Mal ein anderer auf Platz 1 zu sehen.
+
+00:11:54.840 --> 00:11:59.600
+In den Jahren davor war immer MySQL die meistgenutzte Datenbank.
+
+00:11:59.600 --> 00:12:05.440
+Dieses Jahr ist das im professionellen Umfeld PostgreSQL und das zu Recht.
+
+00:12:05.440 --> 00:12:09.280
+Wir nutzen sie auch und einen Vergleich habe ich bereits gemacht.
+
+00:12:09.280 --> 00:12:11.960
+Keine Änderungen gab es bei den Plätzen danach.
+
+00:12:11.960 --> 00:12:16.000
+SQLite, MSSQL, MongoDB, Redis, MariaDB.
+
+00:12:16.000 --> 00:12:20.520
+Beliebt sind aber vor allem bei den Leuten, die sie wirklich benutzen, PostgreSQL und
+
+00:12:20.520 --> 00:12:21.520
+Redis.
+
+00:12:21.520 --> 00:12:25.320
+PostgreSQL stinkt immer mehr ab, was vermutlich für viele auch ein Grund für den Wechsel
+
+00:12:25.320 --> 00:12:26.320
+ist.
+
+00:12:26.320 --> 00:12:29.320
+Am unbeliebtesten ist allerdings IBMs DB2.
+
+00:12:29.320 --> 00:12:34.240
+Lasst uns aber mal nach dem Newcomer für dieses Jahr Ausschau halten.
+
+00:12:34.240 --> 00:12:37.360
+Dazu werfen wir zunächst einen Blick auf den TIOBE Index.
+
+00:12:37.360 --> 00:12:41.480
+Denn da gibt's so schön Plätze, die einfach angezeigt werden.
+
+00:12:41.480 --> 00:12:45.080
+Im Vergleich zum letzten Jahr haben sich die ein kleines bisschen verändert.
+
+00:12:45.080 --> 00:12:49.840
+PHP ist nach oben gerutscht, weil es eine neue Version der Sprache gibt, die ziemlich
+
+00:12:49.840 --> 00:12:51.600
+viel moderne Sachen mitbringt.
+
+00:12:51.600 --> 00:12:57.360
+Und Go, Matlab, Rust und Objective-C schleichen sich auch einige Plätze nach vorn.
+
+00:12:57.360 --> 00:13:02.520
+Objective-C vermutlich deshalb, weil Swift insgesamt gefallen ist und die beiden im Apple-Kosmos
+
+00:13:02.520 --> 00:13:04.600
+ein bisschen das Entweder-Oder sind.
+
+00:13:04.600 --> 00:13:08.560
+Spannend für mich also an Sprachen sind vor allem Rust und Go.
+
+00:13:08.560 --> 00:13:12.520
+Lustigerweise genau die Sprachen, die bei mir im letzten Jahr auf dem Lernzettel standen
+
+00:13:12.520 --> 00:13:14.720
+und dieses Jahr auf dem Tutorials-Zettel stehen.
+
+00:13:14.720 --> 00:13:17.520
+Und das deckt sich übrigens auch mit Stack Overflow.
+
+00:13:17.520 --> 00:13:23.640
+Rust ist nun das siebte Jahr in Folge die meistgeliebte Programmiersprache und mittlerweile
+
+00:13:23.640 --> 00:13:29.480
+wohl auch wirklich in einem stabilen Zustand, in dem sie auch von 8,8% professionellen Entwicklern
+
+00:13:29.480 --> 00:13:30.480
+schon verwendet wird.
+
+00:13:30.480 --> 00:13:36.000
+Go hat sogar noch ein paar mehr professionelle Entwickler mit knapp 12%, trotzdem nicht ganz
+
+00:13:36.000 --> 00:13:37.000
+so viele Fans.
+
+00:13:37.000 --> 00:13:42.080
+Man muss hier aber auch wirklich sagen, dass die Anwendungsfälle sich schon ziemlich unterscheiden.
+
+00:13:42.080 --> 00:13:48.000
+Rust konzentriert sich auf hohe Performance und zeigt gleich eine niedrige Fehlerquote,
+
+00:13:48.000 --> 00:13:49.800
+wenn der Code läuft.
+
+00:13:49.800 --> 00:13:54.240
+Es ist das Ziel bei Rust, dass wenn der Code läuft, dann soll es am besten fehlerfrei
+
+00:13:54.240 --> 00:13:55.240
+sein.
+
+00:13:55.240 --> 00:13:59.600
+Das heißt, schon bevor er ausgeführt wird, kann man das meiste im Debugging machen.
+
+00:13:59.600 --> 00:14:03.920
+Und das ist natürlich super, wenn man einfach Sachen rausbringen kann, die wahrscheinlich
+
+00:14:03.920 --> 00:14:04.920
+nicht abstürzen.
+
+00:14:04.920 --> 00:14:10.120
+Trotzdem soll aber auch die Geschwindigkeit und das Umfeld mit dem von C++ verglichen
+
+00:14:10.120 --> 00:14:14.880
+werden und das macht die Sprache besonders als Nachfolger im hardware-nahen Umfeld interessant.
+
+00:14:14.880 --> 00:14:22.400
+Go ist ebenfalls eine kompilierbare Sprache, allerdings mit Fokus auf Web, Cluster und
+
+00:14:22.400 --> 00:14:23.800
+Cloud und Skalierung.
+
+00:14:23.800 --> 00:14:28.600
+Das sind beides wichtige Themen in der nächsten Zeit und dementsprechend glaube ich, dass
+
+00:14:28.600 --> 00:14:31.760
+beide Sprachen auch nächstes Jahr wieder ein bisschen ansteigen werden.
+
+00:14:31.760 --> 00:14:37.760
+Allerdings, was Arbeitnehmer können und welche Technologie im Unternehmen benutzt wird, das
+
+00:14:37.760 --> 00:14:39.720
+bedingt sich oft selbst.
+
+00:14:39.720 --> 00:14:44.320
+Trotzdem kann man sich zumindest bei der Wahl der Technologie ein bisschen vorbereiten,
+
+00:14:44.320 --> 00:14:46.560
+da man sonst ohnehin umschulen muss.
+
+00:14:46.560 --> 00:14:52.600
+Im DevJobScanner wurde eine Analyse des Jobmarkts durchgeführt für ITler bzw. für Entwickler.
+
+00:14:52.600 --> 00:14:56.400
+Nicht nur arbeiten die meisten Entwickler mit JavaScript.
+
+00:14:56.400 --> 00:15:01.480
+Auch 29% aller Jobangebote sind für JavaScript-Entwicklung.
+
+00:15:01.480 --> 00:15:04.280
+Das ist fast ein Drittel.
+
+00:15:04.280 --> 00:15:07.720
+Python macht etwa 18% aus, also immer noch ordentlich viel.
+
+00:15:07.720 --> 00:15:12.760
+Klassisches Java mit 15,8% auf dem dritten Platz, C Sharp 12%.
+
+00:15:12.760 --> 00:15:18.720
+Danach kommen PHP und nach C, C++ und Ruby wird's wirklich dünn.
+
+00:15:18.720 --> 00:15:23.280
+Das insgesamt, also diese Sprachen decken nämlich schon mehr als 95% ab.
+
+00:15:23.280 --> 00:15:26.080
+Alles in allem können wir also mitnehmen.
+
+00:15:26.080 --> 00:15:31.600
+Die meisten von uns arbeiten im Webumfeld und arbeiten mit JavaScript und all den Frameworks,
+
+00:15:31.600 --> 00:15:32.600
+die dann dazukommen.
+
+00:15:32.600 --> 00:15:34.600
+Python ist nach wie vor überall.
+
+00:15:34.600 --> 00:15:39.800
+Rust und Go sind auf dem Vormarsch, genauso wie Kafka, das auch im Webbereich eine große
+
+00:15:39.800 --> 00:15:41.120
+Community mittlerweile findet.
+
+00:15:41.120 --> 00:15:45.320
+Wenn ich so mit euch spreche, dann bestätigt ihr mir all das.
+
+00:15:45.320 --> 00:15:51.360
+Desktop-Apps sterben aus, dafür werden Websites und Apps weiterentwickelt bzw. neu entwickelt
+
+00:15:51.360 --> 00:15:54.680
+und wir werden allesamt überdurchschnittlich gut bezahlt.
+
+00:15:54.680 --> 00:15:56.600
+Zumindest wenn wir nicht selbstständig sind.
+
+00:15:56.600 --> 00:16:01.160
+Gleichzeitig fallen aber auch die meisten Jobs auf nur vier Programmiersprachen.
+
+00:16:01.160 --> 00:16:03.960
+Die sollten sich also definitiv in eurem Repertoire befinden.
+
+00:16:03.960 --> 00:16:09.200
+Diese und auch die meisten Frameworks oder nischigeren Technologien findet ihr bereits
+
+00:16:09.200 --> 00:16:10.200
+bei mir als Tutorial.
+
+00:16:10.200 --> 00:16:14.240
+Geht dazu am besten direkt auf die Bootstrap Academy, um da mal reinzuschauen, die ist
+
+00:16:14.240 --> 00:16:15.760
+übersichtlicher als YouTube.
+
+00:16:15.760 --> 00:16:18.680
+Ein paar Sachen fehlen mir allerdings noch.
+
+00:16:18.680 --> 00:16:19.680
+Zum Beispiel Kafka.
+
+00:16:19.680 --> 00:16:21.840
+Deswegen meine Frage an euch.
+
+00:16:21.840 --> 00:16:25.040
+Was sind eure Technologien für 2023?
+
+00:16:25.040 --> 00:16:30.480
+Welche Sprachen wollt ihr unbedingt lernen und vor allem welche Technologien auch?
+
+00:16:30.480 --> 00:16:34.760
+Schreibt mir das bitte in die Kommentare, denn meine Tutorials richten sich immer stark
+
+00:16:34.760 --> 00:16:36.320
+nach dem, was ihr euch wünscht.
+
+00:16:36.320 --> 00:16:40.360
+Und vergesst vor allem nicht, nächste Woche geht's weiter mit den wichtigsten Technologien
+
+00:16:40.360 --> 00:16:41.360
+fürs neue Jahr.
+
+00:16:41.360 --> 00:17:01.360
+Bis dahin, ciao.
+

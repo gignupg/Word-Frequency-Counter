@@ -1,0 +1,427 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:17.289 --> 00:00:21.769
+Hallo Leute. Heute schauen wir uns die 10
+häufigsten Mathefehler an, die viele Schüler
+
+00:00:21.769 --> 00:00:25.320
+machen und dadurch schlechtere Noten bekommen.
+Fehler Nummer 1:
+
+00:00:25.320 --> 00:00:31.609
+Wenn das hier berechnet werden soll, schreiben
+viele einfach a²+b² was allerdings falsch
+
+00:00:31.609 --> 00:00:35.370
+ist, denn das erkennt ihr sofort, wenn ihr
+für a und b eine Zahl einsetzt. Nehmen wir
+
+00:00:35.370 --> 00:00:42.600
+1 und 2. Und jetzt 1+2 sind 3. 3² sind 9.
+Und hier drüben: 1² ist 1 plus 2² ist 4,
+
+00:00:42.600 --> 00:00:48.649
+also kommt hier 5 raus. Und 5 ist ungleich
+9. Das heißt das hier ist nicht das gleiche
+
+00:00:48.649 --> 00:00:54.870
+wie das hier. Wie können wir das also besser
+machen? Stellt euch a+b als eine Strecke vor,
+
+00:00:54.870 --> 00:00:59.790
+und die soll mit sich selbst multipliziert
+werden, denn (a+b)² bedeutet ja nichts weiter
+
+00:00:59.790 --> 00:01:09.360
+als (a+b)*(a+b). So, wir sollen also eine
+Strecke a+b mit sich selbst multiplizieren.
+
+00:01:09.360 --> 00:01:15.280
+Das heißt geometrisch wir erstellen ein Quadrat.
+Wenn wir jetzt hier die Flächen einzeichnen,
+
+00:01:15.280 --> 00:01:21.700
+erkennen wir schnell: Wir haben hier ein a²
+hier ein b², also die beiden. Aber es kommen
+
+00:01:21.700 --> 00:01:33.030
+noch a*b+a*b hinzu, also 2*a*b. Also +2ab.
+Und dann ist das hier auch gleich. Das also
+
+00:01:33.030 --> 00:01:40.720
+bitte ab sofort merken: (a+b)² ist a²+b²+2ab.
+Und richtig, das ist die erste binomische
+
+00:01:40.720 --> 00:01:44.250
+Formel. Gut.
+Fehler Nummer 2:
+
+00:01:44.250 --> 00:01:48.760
+Wenn diese beiden Brüche miteinander addiert
+werden sollen, rechnen manche 1+3 oben und
+
+00:01:48.760 --> 00:01:55.150
+2+4 unten und erhalten 4/6, was jedoch falsch
+ist! Stattdessen müssen wir den gleichen
+
+00:01:55.150 --> 00:02:01.700
+Nenner herstellen, indem wir den Bruch mit
+2 erweitern. Also 2/4+3/4 und wir erhalten
+
+00:02:01.700 --> 00:02:09.200
+5/4. Und das könnt ihr euch als Kreisflächen
+vorstellen. ½ ist ein halber Kreis. ¾ ist
+
+00:02:09.200 --> 00:02:15.260
+ein Dreiviertelkreis. Und wenn ihr die beiden
+zusammenaddiert, können nicht 4/6 herauskommen,
+
+00:02:15.260 --> 00:02:25.540
+denn 4/6 sind weniger als ein Kreis. Korrekt
+wäre hingegen 5/4. Gut, ein weiterer Fehler
+
+00:02:25.540 --> 00:02:30.029
+bei den Brüchen ist die Multiplikation, wenn
+ihr eine ganze Zahl mit einem Bruch multiplizieren
+
+00:02:30.029 --> 00:02:37.849
+sollt. Manche rechnen dann 3*7 unten und da
+kommt 21 raus, also 2/21. Doch das ist definitiv
+
+00:02:37.849 --> 00:02:44.279
+falsch, denn wir müssen die 3 oben mit der
+2 multiplizieren. 3*2 sind 6, also hier kommt
+
+00:02:44.279 --> 00:02:50.419
+6/7 heraus. Warum ist das so? Überlegen wir
+nochmal. 3 kann man ja schreiben als 3/1.
+
+00:02:50.419 --> 00:02:56.379
+Und die Bruchrechenregel besagt: Zähler mal
+Zähler und Nenner mal Nenner. Also 3*2 sind
+
+00:02:56.379 --> 00:03:00.519
+6. 1*7 sind 7. Gut.
+Fehler Nummer 3:
+
+00:03:00.519 --> 00:03:08.250
+Wenn wir (3+x)/x haben, dann kürzen ja einige
+x und x. Und da soll dann 3 rauskommen. Das
+
+00:03:08.250 --> 00:03:14.150
+ist jedoch falsch. Aus Summen dürfen wir
+nicht kürzen. Wenn wir kürzen dürften,
+
+00:03:14.150 --> 00:03:19.040
+dann hieße das ja, egal was wir für x einsetzen,
+es kommt immer die 3 raus. Und da reicht ein
+
+00:03:19.040 --> 00:03:24.329
+einziges Beispiel. Wir setzen für x eine
+Zahl ein, nehmen wir die 1, das sind 4. Also
+
+00:03:24.329 --> 00:03:29.799
+4/1. Da kommt 4 raus für das Beispiel. Und
+nicht 3! Und je nachdem was wir für x einsetzen.
+
+00:03:29.799 --> 00:03:36.200
+Wir erhalten hier immer einen anderen Wert.
+Das heißt (3+x)/x ist das gleiche. Wir dürfen
+
+00:03:36.200 --> 00:03:41.060
+es nicht verändern. Wir haben jedoch die
+Möglichkeit beide Summanden durch x zu dividieren.
+
+00:03:41.060 --> 00:03:48.420
+Dann ergibt sich 3/x + x/x. Wir erhalten zwei
+Brüche. Und dann können wir x/x kürzen
+
+00:03:48.420 --> 00:03:54.769
+zu 1 und haben dann stehen 3/x + 1. Eine korrekte
+Umformung. Ihr könnt ja die Probe machen.
+
+00:03:54.769 --> 00:03:59.519
+Wir hatten ja hier die 1 eingesetzt, da kam
+4 raus. Setzen wir hier für x die 1 ein:
+
+00:03:59.519 --> 00:04:04.099
+3/1 + 1 sind auch 4. Wunderbar.
+Fehler Nummer 4:
+
+00:04:04.099 --> 00:04:11.010
+Die Potenzgesetze! Einige die das hier auflösen
+schreiben dahin ist gleich -x². Und das ist
+
+00:04:11.010 --> 00:04:16.639
+natürlich falsch. Dieses Minus steht ja nicht
+vor der Klammer, sondern in der Klammer und
+
+00:04:16.639 --> 00:04:20.650
+durch das Quadrat müssen wir den Inhalt der
+Klammer mit sich selbst multiplizieren. Schreiben
+
+00:04:20.650 --> 00:04:29.930
+wir das hier mal aus. Das bedeutet also (-x)*(-x).
+Und das Minus mal Minus ist Plus und x*x ist
+
+00:04:29.930 --> 00:04:37.442
+x². Das heißt hier kommt x² raus und nicht
+-x². Auch müsst ihr aufpassen, wenn ihr
+
+00:04:37.442 --> 00:04:43.320
+nur ein -x² stehen habt und dann für x einen
+Wert einsetzt. Zum Beispiel die 3. Dann schreiben
+
+00:04:43.320 --> 00:04:48.890
+hier einige als Ergebnis 9 hin. Was jedoch
+falsch ist! Die Potenz muss zuerst berechnet
+
+00:04:48.890 --> 00:04:53.600
+werden, also 3² und dann wird das Minus davor
+gestellt. Denkt euch einfach eine Klammer
+
+00:04:53.600 --> 00:04:59.070
+um 3². Und erinnert euch: Punktrechnung geht
+vor Strichrechnung. Wenn wir die 3² ausschreiben,
+
+00:04:59.070 --> 00:05:02.400
+haben wir -3*3 und wir erkennen als Ergebnis
+-9.
+
+00:05:02.400 --> 00:05:06.120
+Fehler Nummer 5:
+Wenn hier ein 5x steht, dann wissen viele
+
+00:05:06.120 --> 00:05:10.712
+nicht, dass das 5*x bedeutet. Und dann wird
+der folgende Fehler gemacht. Stellen wir uns
+
+00:05:10.712 --> 00:05:15.250
+vor wir hätten hier eine Gleichung 5x = y
+und wir sollen jetzt für x den folgenden
+
+00:05:15.250 --> 00:05:22.320
+Term einsetzen: x gleich y+2. Dann setzen
+viele Schüler den Term direkt so ein. Statt
+
+00:05:22.320 --> 00:05:28.270
+x schreiben sie dann y+2. Und das ist nicht
+korrekt. Wenn wir was für x einsetzen muss
+
+00:05:28.270 --> 00:05:33.210
+das immer in Klammern stehen. Also dieser
+gesamte Term ist x, das heißt wir müssen
+
+00:05:33.210 --> 00:05:38.890
+die Klammer davor und dahinter setzen. Jetzt
+ist es richtig und jetzt können wir mit dem
+
+00:05:38.890 --> 00:05:44.100
+Distributivgesetz ausmultiplizieren: 5y+5*2,
+also 10. In weiterer beliebter Fehler in dieser
+
+00:05:44.100 --> 00:05:49.200
+Kategorie: Wenn wir ein negatives x haben
+und für x eine negative Zahl einsetzen wie
+
+00:05:49.200 --> 00:05:56.090
+zum Beispiel die -6, dann schreiben welche
+einfach hin, ist gleich -6, was jedoch falsch
+
+00:05:56.090 --> 00:06:00.610
+ist, denn wir haben ja -x stehen und jetzt
+müssen wir für dieses x die -6 einsetzen.
+
+00:06:00.610 --> 00:06:06.250
+Setzen eine Klammer, setzen die -6 ein und
+wir sehen hier ist Minus Minus, was wiederum
+
+00:06:06.250 --> 00:06:12.580
+6 ist. Also wir erhalten eine positive 6.
+Okay, weiter zum nächsten Fehler.
+
+00:06:12.580 --> 00:06:14.260
+Fehler Nummer 6:
+Wenn wir eine solche schöne Klammer haben
+
+00:06:14.260 --> 00:06:22.240
+mit einem Minus davor, schreiben einige, wenn
+sie die Klammer auflösen einfach -x+y, was
+
+00:06:22.240 --> 00:06:27.910
+jedoch falsch ist, denn nicht nur x wird negativ,
+sondern auch y wird negativ. Damit ihr hier
+
+00:06:27.910 --> 00:06:32.500
+zukünftig keine Fehler macht, ein kleiner
+Tipp. Schreibt das Minus vor der Klammer als
+
+00:06:32.500 --> 00:06:38.560
+-1, denn dann sieht man hier sehr schön das
+Distributivgesetz. Wir müssen diese -1 multiplizieren
+
+00:06:38.560 --> 00:06:44.060
+mit dem x und wir müssen sie multiplizieren
+mit dem y. Und dann ist es ganz einfach zu
+
+00:06:44.060 --> 00:06:56.380
+erkennen. -x+(-y). Und hier Plus und Minus
+ergibt natürlich Minus. So haben wir dann
+
+00:06:56.380 --> 00:06:58.940
+-x-y.
+Fehler Nummer 7:
+
+00:06:58.940 --> 00:07:03.880
+Division durch 0. 1:0 bzw. 1/0. Da haben einige
+Schüler Ergebnisse raus wie zum Beispiel
+
+00:07:03.880 --> 00:07:10.820
+1 oder 0. Aber bitte merken. Division durch
+0 ist nicht definiert! Es gibt keinen Wert
+
+00:07:10.820 --> 00:07:16.950
+der hier rauskommt. Also hier schreibt man
+einfach „n. d.“ - nicht definiert. Die
+
+00:07:16.950 --> 00:07:23.090
+Multiplikation mit 0 ist jedoch definiert
+als 0. Also immer wenn ihr eine Zahl oder
+
+00:07:23.090 --> 00:07:27.370
+einen Term mit 0 multipliziert kommt 0 raus.
+Fehler Nummer 8:
+
+00:07:27.370 --> 00:07:33.190
+Wenn jemand fragt: „Nenn mir eine Zahl größer
+als -10“, dann sagen einige Schüler, als
+
+00:07:33.190 --> 00:07:39.771
+Beispiel, „-100“, was leider falsch ist,
+denn die Zahl -100 ist kleiner als -10. x
+
+00:07:39.771 --> 00:07:46.639
+soll größer sein als -10 und dann ist x
+beispielsweise -9, -8, 0 oder ein positiver
+
+00:07:46.639 --> 00:07:53.320
+Wert. Und wenn ihr eine Zahl kleiner als -10
+nennen sollt: x &lt; -10, dann kann hier -11,-12
+
+00:07:53.320 --> 00:07:56.110
+usw. eingesetzt werden. Gut.
+Fehler Nummer 9:
+
+00:07:56.110 --> 00:08:00.790
+Das ist ein Formulierungsfehler. Viele sagen
+„Ich habe eine Problem bei dieser Gleichung:
+
+00:08:00.790 --> 00:08:07.169
+5*x+x“. Das ist eine falsche Formulierung,
+denn hier ist kein Gleichheitszeichen. Das
+
+00:08:07.169 --> 00:08:11.770
+ist keine Gleichung! Hier müsste es richtig
+heißen: „Ich habe ein Problem bei diesem
+
+00:08:11.770 --> 00:08:17.870
+Term“, denn das ohne Gleichheitszeichen
+ist nichts weiter als ein Term. Also ein „mathematisch
+
+00:08:17.870 --> 00:08:25.100
+sinnvoller Ausdruck“. Eine Gleichung wäre,
+wie der Name schon sagt etwas wo ein Gleichheitszeichen
+
+00:08:25.100 --> 00:08:32.649
+dabei ist. Also eine Aussage getroffen wird.
+5*x+x soll 10 sein, ist gleich 10. Also das
+
+00:08:32.649 --> 00:08:37.139
+ist eine Gleichung. Das ist ein Term. Eine
+Gleichung besteht aus einem Linksterm und
+
+00:08:37.139 --> 00:08:42.980
+einem Rechtsterm und einem Gleichheitszeichen.
+Auch beliebt sind übrigens Schreibfehler,
+
+00:08:42.980 --> 00:08:48.920
+den es gibt welche, die Schreiben „Das ist
+ein Therm“ so. Mehrzahl Therme. Aber diese
+
+00:08:48.920 --> 00:08:54.309
+Therme mit h geschrieben ist ein öffentliches
+Bad. Also bitte Terme ohne h schreiben! Oder
+
+00:08:54.309 --> 00:08:59.130
+ein zweites Beispiel „reelle Zahlen“.
+Das wird immer mit Doppel l geschrieben und
+
+00:08:59.130 --> 00:09:04.060
+Doppel e. Manche schreiben das nämlich so
+„reele Zahlen“ und manche schreiben „reale
+
+00:09:04.060 --> 00:09:08.829
+Zahlen“. Richtig ist aber „reelle Zahlen“.
+Fehler Nummer 10:
+
+00:09:08.829 --> 00:09:13.231
+Wenn ihr diese Gleichung lösen sollt, müsst
+ihr ja die Wurzel ziehen. Und einige Schüler
+
+00:09:13.231 --> 00:09:18.459
+schreiben dann hin: x ist Wurzel(9) und x
+ist gleich 3. Das ist jedoch nur ein Teil
+
+00:09:18.459 --> 00:09:25.779
+der Lösung, denn wir wissen dass (-3)² ebenfalls
+9 ist. Hier muss man also auch den negativen
+
+00:09:25.779 --> 00:09:30.269
+Wert beachten. Das heißt wenn wir hier die
+Wurzel ziehen schreiben wir ein Plusminus
+
+00:09:30.269 --> 00:09:35.120
+vor die Wurzel und dann haben wir hier ein
+Plusminus und hier ein Plusminus. Durch das
+
+00:09:35.120 --> 00:09:39.699
+Plusminus erhalten wir zwei Ergebnisse, wir
+müssen also den Index 1,2 heransetzen. Und
+
+00:09:39.699 --> 00:09:45.680
+wir können ausschreiben: x_1 ist 3 und x_2
+ist -3. Fertig! Zusätzlich sei erwähnt:
+
+00:09:45.680 --> 00:09:51.089
+Die Wurzel aus einem negativen Wert ist für
+die reellen Zahlen nicht definiert. Sobald
+
+00:09:51.089 --> 00:09:56.019
+der Radikand also kleiner als 0 ist, erhalten
+wir keine Lösung. Und noch ein Hinweis zu
+
+00:09:56.019 --> 00:10:04.210
+den Wurzeln. Habt ihr so etwas wie Wurzel(x+y)
+ist das nicht Wurzel(x) + Wurzel(y). Dieser
+
+00:10:04.210 --> 00:10:10.189
+Term und dieser Term sind nicht gleich, die
+sind ungleich, sofern x und y größer 0 sind.
+
+00:10:10.189 --> 00:10:15.639
+Sehr schön. Das waren die 10 häufigsten
+Fehler, die euch in Mathearbeiten Punkte kosten.
+
+00:10:15.639 --> 00:10:19.149
+Wir hoffen diese Fehler werden euch nicht
+mehr passieren. Schaut euch weitere Videos
+
+00:10:19.149 --> 00:10:24.649
+von uns an, damit ihr besser in Mathe werdet.
+Das war Echt Einfach TV. Wir machen gute Mathe-Videos
+
+00:10:24.649 --> 00:10:25.199
+für euch!
+

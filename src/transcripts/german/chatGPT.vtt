@@ -1,0 +1,613 @@
+WEBVTT
+Kind: captions
+Language: de-DE
+
+00:00:00.080 --> 00:00:04.080
+Guckt mal: Ich tippe hier einfach ein "Ich
+will eine Website machen, die nach Eingabe
+
+00:00:04.080 --> 00:00:06.420
+des Geburtsdatums das aktuelle Alter anzeigt.
+
+00:00:06.420 --> 00:00:08.560
+Kannst du mir den Code dafür schicken?"
+
+00:00:08.560 --> 00:00:14.259
+Und dann schickt mir ChatGPT den Code in HTML
+und Javascript.
+
+00:00:14.259 --> 00:00:19.230
+Ok, das ist jetzt noch nicht so beeindruckend,
+weil es solche Codeschnipsel natürlich auf
+
+00:00:19.230 --> 00:00:24.150
+vielen Programmieren-Lernen-Websites gibt
+und das einfach copy-pasted sein kann.
+
+00:00:24.150 --> 00:00:27.789
+Jetzt gehts aber weiter: Könntest du machen,
+dass das alles schöner aussieht?
+
+00:00:27.789 --> 00:00:32.930
+Also eine völlig unkonkrete Frage, ab er
+trotzdem kriege ich daraufhin Code ausgespuckt,
+
+00:00:32.930 --> 00:00:35.130
+der ein tatsächlich schöneres Ergebnis liefert.
+
+00:00:35.130 --> 00:00:38.520
+Aber jetzt wirds wirklich verrückt, jetzt
+schreibe ich nämlich: Könntest du einen
+
+00:00:38.520 --> 00:00:43.820
+Kasten um die Geburtstagsabfrage machen und
+noch ein hoch und runter hüpfendes c't-3003-Logo
+
+00:00:43.820 --> 00:00:44.820
+einbauen?
+
+00:00:44.820 --> 00:00:47.420
+Zack, neuer Code, das sieht dann so aus.
+
+00:00:47.420 --> 00:00:51.640
+Und jetzt wird's noch verrückter, denn es
+stellt sich raus, dass die Website gar nicht
+
+00:00:51.640 --> 00:00:52.640
+funktioniert.
+
+00:00:52.640 --> 00:00:56.199
+Wenn ich das Ganze als HTML abspeichere und
+in den Browser lade, wird nie das korrekte
+
+00:00:56.199 --> 00:00:57.199
+Alter berechnet.
+
+00:00:57.199 --> 00:00:58.270
+Da steht dann immer nur "NaN".
+
+00:00:58.270 --> 00:00:59.930
+Deshalb sage ich jetzt zu ChatGPT:
+
+00:00:59.930 --> 00:01:03.760
+Das Alter wird nicht korrekt berechnet, bitte
+korrigiere deinen Code.
+
+00:01:03.760 --> 00:01:07.010
+Ja, und das macht er dann tatsächlich; und
+jetzt klappt die Berechnung auf einmal.
+
+00:01:07.010 --> 00:01:16.189
+Ich habe dann noch drum gebeten, einen animierten
+Sternenhimmel in den Hintergrund zu packen...
+
+00:01:16.189 --> 00:01:29.710
+ChatGPT kann übrigens nicht nur programmieren,
+sondern auch Witze erzählen, Aufsätze schreiben
+
+00:01:29.710 --> 00:01:31.570
+und seltsame Dinge erfinden.
+
+00:01:31.570 --> 00:01:32.570
+Bleibt dran!
+
+00:01:32.570 --> 00:01:39.770
+Liebe Hackerinnen, liebe Internetsurfer,
+herzlich willkommen hier bei...
+
+00:01:39.770 --> 00:01:42.899
+''WERBUNG*
+
+00:01:42.899 --> 00:01:46.030
+Dieses Video wird gesponsert von AVM aus Berlin.
+
+00:01:46.030 --> 00:01:51.180
+Jo, AVM hat mir gerade die neue Fritzbox 5590
+Fiber geschickt.
+
+00:01:51.180 --> 00:01:52.710
+Ich habe die direkt testweise mal angeschlossen,
+tja, und ich kriege wirklich direkt deutlich
+
+00:01:52.710 --> 00:01:57.299
+mehr Durchsatz über WLAN -- obwohl auch mein
+alter Router schon Wifi-6 hat -- aber halt
+
+00:01:57.299 --> 00:02:00.979
+nicht mit der 4x4-Antennenkonfiguration der
+Fritzbox 5590.
+
+00:02:00.979 --> 00:02:06.000
+Das Gerät arbeitet an Glasfaser-Anschlüssen,
+hat etliche Smarthome-Funktionen eingebaut,
+
+00:02:06.000 --> 00:02:10.209
+unterstützt FritzApps auf dem Smartphone
+-- und obendrein ist es auch noch eine vollwertige
+
+00:02:10.209 --> 00:02:11.370
+Telefonanlage.
+
+00:02:11.370 --> 00:02:14.390
+Mehr Infos zur Fritzbox 5590 Fiber auf avm.de.
+
+00:02:14.390 --> 00:02:15.390
+*WERBUNG ENDE*
+
+00:02:15.390 --> 00:02:16.390
+Am 30. November 2022 ist ChatGPT öffentlich
+gestartet -- und fünf Tage später meldeten
+
+00:02:16.390 --> 00:02:17.390
+die Macher bereits eine Million User -- das
+zeigt recht anschaulich, wie groß der Hype
+
+00:02:17.390 --> 00:02:18.390
+um ChatGPT ist.
+
+00:02:18.390 --> 00:02:19.390
+Auf Twitter sprechen Leute schon davon, dass
+wir es hier mit einem historischen Moment
+
+00:02:19.390 --> 00:02:20.390
+zu tun haben; auf einem Level mit der Erfindung
+der Elektrizität oder des tiefen Tellers.
+
+00:02:20.390 --> 00:02:21.390
+Und: Google könne ja nun dichtmachen, so
+gut sind die Antworten von ChatGPT.
+
+00:02:21.390 --> 00:02:22.390
+Aber stimmt das wirklich?
+
+00:02:22.390 --> 00:02:23.390
+Zuerst mal: Was ist überhaupt ChatGPT?
+
+00:02:23.390 --> 00:02:25.519
+Tja, es handelt sich dabei um ein sogenanntes
+"Großes Sprachmodell", also ein Large Language
+
+00:02:25.519 --> 00:02:29.410
+Model, also ein mit riesigen Textmengen trainiertes
+neuronales Netz.
+
+00:02:29.410 --> 00:02:33.690
+Wenn ihr detaillierter wissen wollt, wie sowas
+funktioniert, empfehle ich euch die c't-Uplink-Folge
+
+00:02:33.690 --> 00:02:39.580
+über GPT-3. GPT-3 kommt von der gleichen
+Firma wie ChatGPT und das ist OpenAI.
+
+00:02:39.580 --> 00:02:45.230
+OpenAI hat übrigens auch den Bildgenerator
+DALL-E entwickelt.
+
+00:02:45.230 --> 00:02:52.959
+Und finanziert wird OpenAI unter anderem von
+Elon Musk und Microsoft.
+
+00:02:52.959 --> 00:02:59.390
+ChatGPT ist zurzeit offen für alle und kostenlos
+zu benutzen, man muss allerdings einen OpenAI-Account
+
+00:02:59.390 --> 00:03:02.019
+anlegen und da Mailadresse und Hanynummer
+angeben.
+
+00:03:02.019 --> 00:03:06.750
+Während das ältere GPT-3 für Leute, die
+nicht coden können, noch etwas umständlich
+
+00:03:06.750 --> 00:03:11.710
+zu bedienen war, ist ChatGPT jetzt so simpel
+wie Google: Einfach eintippen, was man will.
+
+00:03:11.710 --> 00:03:12.840
+Und zack, Ergbnis.
+
+00:03:12.840 --> 00:03:18.080
+Und anders als Google, spuckt ChatGPT wirklich
+eine konkrete Antwort aus und nicht nur Links
+
+00:03:18.080 --> 00:03:21.100
+auf andere Websites, wo man die Antwort vielleicht
+finden könnte.
+
+00:03:21.100 --> 00:03:24.099
+Schaut mal hier, wenn ich Google frage, warum
+der Himmel blau ist, dann kriege ich zwar
+
+00:03:24.099 --> 00:03:29.080
+direkt eine hervorgehobene Antwort, die bezieht
+sich aber nicht konkret auf meine Frage.
+
+00:03:29.080 --> 00:03:33.420
+"Jede Farbe hat eine andere Welle" ist auch
+ziemlich seltsam formuliert.
+
+00:03:33.420 --> 00:03:38.370
+ChatGPT dagegen liefert mir eine konkrete
+Antwort -- und das tolle ist: Ich kann sogar
+
+00:03:38.370 --> 00:03:40.200
+sagen, dass ich die noch einfacher haben will.
+
+00:03:40.200 --> 00:03:45.260
+"Der Himmel erscheint blau, weil das blaue
+Licht vom Sonnenlicht stärker gestreut wird
+
+00:03:45.260 --> 00:03:46.260
+als die anderen Farben."
+
+00:03:46.260 --> 00:03:49.110
+Das ist doch echt eine ganz gute, einfache
+Antwort.
+
+00:03:49.110 --> 00:03:53.920
+Wenn mir das ZU einfach ist, bitte ich um
+eine detailliertere Antwort; ich kann sogar
+
+00:03:53.920 --> 00:03:57.790
+Detailfragen stellen, zum Beispiel nach den
+konkreten Wellenlängen, worauf ChatGPT dann
+
+00:03:57.790 --> 00:04:03.670
+kontextbezogen antwortet -- also ChatGPT merkt
+sich, worum es in den vorherigen Fragen ging.
+
+00:04:03.670 --> 00:04:07.220
+Und auch das kann Google nicht, da muss jede
+Suchanfrage für sich stehen.
+
+00:04:07.220 --> 00:04:11.310
+Also, kann Google jetzt echt dichtmachen mit
+ihrer Old-School-Suchmaschine?
+
+00:04:11.310 --> 00:04:17.590
+Nee, denn ChatGPT hat ein Problem; und das
+sind die Fehler, die sich da immer einschleichen.
+
+00:04:17.590 --> 00:04:23.090
+Hier zum Beispiel: Da sagt, ChatGPT, heise
+online wird von der Heise Media Group betrieben.
+
+00:04:23.090 --> 00:04:27.970
+Es gibt aber gar keine Heise Media Group,
+es gibt nur die Heise Medien GmbH &amp; Co und
+
+00:04:27.970 --> 00:04:29.820
+die Heise Gruppe GmbH &amp; Co.
+
+00:04:29.820 --> 00:04:35.930
+Bei einer weiteren Anfrage haut ChatGPT einfach
+so locker raus, ich sei ein Kabarettist und
+
+00:04:35.930 --> 00:04:39.919
+Musiker, der durch seine Musik-Comedy-Shows
+bekannt geworden ist.
+
+00:04:39.919 --> 00:04:42.870
+Ich glaube, das weiß ich besser, ChatGPT.
+
+00:04:42.870 --> 00:04:48.990
+Und das Ding ist: Es reichen ja schon 5 Prozent
+Falschaussagen, um das ganze System ziemlich
+
+00:04:48.990 --> 00:04:53.331
+unbrauchbar zu machen -- denn man weiß ja
+dummerweise nicht, WAS falsch ist, wenn man
+
+00:04:53.331 --> 00:04:56.180
+sich mit einem Themengebiet nicht auskennt.
+
+00:04:56.180 --> 00:05:00.800
+Bei Google gibt es natürlich auch viele Falschinformationen,
+aber da wird ja zumindest die Quelle angezeigt
+
+00:05:00.800 --> 00:05:05.770
+, man kann also die Wahrheitswahrscheinlichkeit
+einigermaßen einschätzen: Einem peer-reviewten
+
+00:05:05.770 --> 00:05:09.720
+wissenschaftlichem Paper kann man vermutlich
+ganz gut trauen, einem Tweet von irgendeinem
+
+00:05:09.720 --> 00:05:11.350
+Honk auf Twitter eher nicht.
+
+00:05:11.350 --> 00:05:16.150
+Tja, und ChatGPT zeigt leider eben nicht an,
+wo die Informationen herkommen.
+
+00:05:16.150 --> 00:05:21.300
+Die Fehler passieren nicht nur bei Sachinformationen,
+sondern auch in Programmcode, am Anfang des
+
+00:05:21.300 --> 00:05:24.620
+Videos hatte ich euch ja schon den nicht funktionierenden
+Geburtstagsrechner gezeigt.
+
+00:05:24.620 --> 00:05:28.340
+Ich hatte sowas ähnliches schon beobachtet,
+als ich nach einer Website mit dem Bild eines
+
+00:05:28.340 --> 00:05:30.509
+springenden Raspi gefragt hatte.
+
+00:05:30.509 --> 00:05:35.490
+Beim ausgespuckten Code waren die CSS-Eigenschaften
+in einer Zeile falsch, weshalb das ganze Ding
+
+00:05:35.490 --> 00:05:36.550
+nicht funktionierte.
+
+00:05:36.550 --> 00:05:43.170
+Tja und ich habe ChatGPT dann seinen eigenen
+Code copy-pasted und gefragt, was daran falsch
+
+00:05:43.170 --> 00:05:44.170
+ist.
+
+00:05:44.170 --> 00:05:48.169
+Und ChatGPT hat dann tatsächlich den Fehler
+gefunden und korrigierten Code ausgegeben.
+
+00:05:48.169 --> 00:05:52.180
+Das ist ziemlich cool, aber verlassen kann
+man sich darauf nicht.
+
+00:05:52.180 --> 00:05:55.259
+Ohnehin muss man natürlich sagen, dass das
+System noch in einem frühen Stadium ist und
+
+00:05:55.259 --> 00:06:01.190
+deshalb noch unzuverlässig arbeitet; viele
+Antworten brechen mittendrin ab, oder die
+
+00:06:01.190 --> 00:06:02.690
+Website funktioniert gar nicht mehr.
+
+00:06:02.690 --> 00:06:07.139
+Ich hatte auch schon, dass ChatGPT mir sagte,
+er könnte gar keinen Code ausgeiben -- obwohl
+
+00:06:07.139 --> 00:06:10.539
+er das ja nun nachweislich ziemlich gut macht.
+
+00:06:10.539 --> 00:06:15.170
+Außerdem habe ich ihm auch schon eine Argumentation
+entlockt, warum das c't Magazin besser ist
+
+00:06:15.170 --> 00:06:20.310
+als Linus Tech Tips -- und bei einem anderen
+Versuch kam nur so vorsichtiges Blabla, so
+
+00:06:20.310 --> 00:06:21.800
+von wegen kann man ja nicht vergleichen.
+
+00:06:21.800 --> 00:06:32.479
+Ohnehin versucht ChatGPT sehr stark zu vermeiden,
+dass man den sogenannten Algorithmic Bias
+
+00:06:32.479 --> 00:06:38.250
+erkennen kann, also diskriminierende oder
+rassistische Aussagen, die zweifellos im Trainingsmaterial
+
+00:06:38.250 --> 00:06:39.250
+drinstecken.
+
+00:06:39.250 --> 00:06:43.470
+Außerdem beantwortet es keine Fragen nach
+Tipps für illegale Aktivitäten.
+
+00:06:43.470 --> 00:06:45.940
+Äh, what, professionelle Hilfe?
+
+00:06:45.940 --> 00:06:53.069
+Auf Twitter poppten immer mal wieder Workarounds
+auf, wie man diese Sicherheitsfunktionen außer
+
+00:06:53.069 --> 00:06:57.690
+Kraft setzen kann, diese "Sicherheitslücken"
+werden aber offenbar sehr schnell behoben,
+
+00:06:57.690 --> 00:07:01.340
+ich konnte jeden keine Bombenbauanleitungen
+aus ChatGPT rauskitzeln.
+
+00:07:01.340 --> 00:07:06.840
+Hier meldet sich mal kurz Keno aus der Zukunft:
+Ich habe gerade noch was ziemlich Verrücktes
+
+00:07:06.840 --> 00:07:12.520
+ausprobiert: Ich habe ChatGPT gesagt, er soll
+sich so verhalten wie ein WIndows-Terminal.
+
+00:07:12.520 --> 00:07:14.900
+Tja, und das macht der dann wirklich.
+
+00:07:14.900 --> 00:07:23.440
+ChatGPT denkt sich ein Dateisystem aus, irgendwelche
+IP-Adressen -- es halluziniert also einen
+
+00:07:23.440 --> 00:07:24.960
+ganzen Computer.
+
+00:07:24.960 --> 00:07:25.960
+Abgefahren, oder?
+
+00:07:25.960 --> 00:07:30.080
+So, aber jetzt mal endlich wieder unernster.
+
+00:07:30.080 --> 00:07:35.940
+ChatGPT kann nämlich auch nicht nur Sachfragen
+beantworten, sondern kann auch "kreativ" sein.
+
+00:07:35.940 --> 00:07:39.930
+Schaut mal hier: Denke dir fünf lustige und
+kreative Namen für einen YouTube-Channel
+
+00:07:39.930 --> 00:07:43.470
+aus, der sich mit Schokolade und Synthesizern
+beschäftigt.
+
+00:07:43.470 --> 00:07:44.470
+Zack.
+
+00:07:44.470 --> 00:07:49.240
+Und hey, ChocoTron finde ich sogar echt gut,
+muss ich sagen; oder The Cocoa Keys auch.
+
+00:07:49.240 --> 00:07:51.030
+Aber warum ist das auf einmal Englisch?
+
+00:07:51.030 --> 00:07:55.690
+Kann man aber ja einfach sagen, Kommunikation
+ist ja wichtig in einer Beziehung.
+
+00:07:55.690 --> 00:07:59.190
+Und dann wird das Ganze ins Deutsche übersetzt
+-- leider funktionieren die Wortspiele hier
+
+00:07:59.190 --> 00:08:00.250
+nicht mehr so gut.
+
+00:08:00.250 --> 00:08:01.250
+Naja.
+
+00:08:01.250 --> 00:08:05.430
+Zumindest kann ChatGPT auch direkt ein Skript
+für ein Video dieses seltsamen YouTube-Kanals
+
+00:08:05.430 --> 00:08:09.020
+erfinden -- ganz ehrlich: Das ist doch sogar
+einigermaßen charmant.
+
+00:08:09.020 --> 00:08:13.840
+"Während die Torte im Ofen ist, nehmen wir
+unsere Synthesizer und spielen einen süßen,
+
+00:08:13.840 --> 00:08:17.460
+schokoladigen Soundtrack dazu" -- yes, also
+ich glaube, ich würde mir das angucken.
+
+00:08:17.460 --> 00:08:22.360
+Tja, und ChatGPT kann auch Kreativität und
+Sachinformationen verbinden, zum Beispiel
+
+00:08:22.360 --> 00:08:23.360
+in Form von Essays.
+
+00:08:23.360 --> 00:08:27.310
+Hier hatte ich übrigens gedacht, dass ich
+das System ein bisschen austricksen kann,
+
+00:08:27.310 --> 00:08:28.770
+hat aber leider nicht funktioniert.
+
+00:08:28.770 --> 00:08:33.530
+Aber ich muss sagen: Wenn ich Lehrer wäre,
+würde ich vermutlich keine Aufsätze mehr
+
+00:08:33.530 --> 00:08:38.469
+als Hausaufgabe aufgeben: Das hier ist nämlich
+besser, als das, was ich so sagen wir mal
+
+00:08:38.469 --> 00:08:40.550
+in der neunten Klasse zustande gebracht hätte.
+
+00:08:40.550 --> 00:08:46.630
+Vor allem kann man es nicht als Plagiat erkennen,
+denn es ist ja kein Plagiat, sondern ein zwar
+
+00:08:46.630 --> 00:08:48.490
+KI-generierter, aber ein Original-Text.
+
+00:08:48.490 --> 00:08:53.260
+Vor der Abgabe drüberlesen sollte man aber:
+Dass Martin Luther, das, was er da an die
+
+00:08:53.260 --> 00:08:57.550
+Tür genagelt hat, nicht "Ninety Five Theses"
+genannt hat, naja, das hätte ich vermutlich
+
+00:08:57.550 --> 00:08:59.459
+auch in der neunten Klasse schon gecheckt.
+
+00:08:59.459 --> 00:09:06.380
+Kurioserweise KENNT ChatGPT den ECHTEN Originaltitel
+der 95 Thesen: Aber manchmal hat es offenbar
+
+00:09:06.380 --> 00:09:07.680
+Erinnerungslücken.
+
+00:09:07.680 --> 00:09:12.100
+Was ChatGPT übrigens überhaupt nicht kann,
+ist Humor: Das kommt raus, als ich nach einem
+
+00:09:12.100 --> 00:09:18.029
+Witz gefragt habe, in dem Martin Luther, ein
+Raspberry Pi und ein Schokoladenkuchen vorkommen:
+
+00:09:18.029 --> 00:09:19.630
+Wow.
+
+00:09:19.630 --> 00:09:46.579
+Also, mein Fazit: ChatGPT 
+ist 
+
+00:09:46.579 --> 00:09:52.779
+ein extrem beeindruckendes Werkzeug, das ziemlich
+sicher in irgendeiner Form in unseren Alltag
+
+00:09:52.779 --> 00:09:57.740
+einziehen wird -- allein die Fähigkeit, präzise
+auf konkrete Fragen zu antworten, ist wirklich
+
+00:09:57.740 --> 00:09:58.740
+hilfreich.
+
+00:09:58.740 --> 00:10:03.350
+Und das Erstellen von Code auf Basis von normaler
+Sprache, ja, das ist auch ganz klar etwas,
+
+00:10:03.350 --> 00:10:05.170
+was Leute künftig benutzen werden.
+
+00:10:05.170 --> 00:10:08.209
+Und natürlich auch das Korrigieren von eigenen
+Codeschnipseln.
+
+00:10:08.209 --> 00:10:13.410
+Wo allerdings noch nachgearbeitet werden muss,
+sind die sporadisch auftretenden Fehler -- das
+
+00:10:13.410 --> 00:10:17.300
+wäre wichtig, dass man zumindest einen Hinweis
+darauf hätte, welche Aussagen man nochmal
+
+00:10:17.300 --> 00:10:18.940
+manuell nachprüfen sollte.
+
+00:10:18.940 --> 00:10:25.540
+Und zum Abschluss noch ein von ChatGPT geschriebenes
+Gedicht, was sich (laut ChatGPT) auch reimt:
+
+00:10:25.540 --> 00:10:31.279
+"c't 3003 ist ein Kanal, der's faustdick hat
+Abonniere ihn, sonst wirst du's bereuen
+
+00:10:31.279 --> 00:10:32.329
+Neues Video?
+
+00:10:32.329 --> 00:10:33.370
+Kein Problem!
+
+00:10:33.370 --> 00:10:38.420
+Klick auf die Glocke, dann bist du's, der's
+sieht!"
+
+00:10:38.420 --> 00:10:40.790
+Ok, tschüß.
+

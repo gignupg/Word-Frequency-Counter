@@ -1,4 +1,4 @@
-import algebra from "./algebra";
+import math from "./math";
 import artificialInteligence from "./artificialInteligence";
 import becomingRich from "./becomingRich";
 import bookReview from "./bookReview";
@@ -15,22 +15,23 @@ import happiness from "./happiness";
 import healthySleep from "./healthySleep";
 import investing from "./investing";
 import jobInterview from "./jobInterview";
-import joiningAStartup from "./joiningAStartup";
-import kobyBryant from "./kobyBryant";
-import lucidDreaming from "./lucid-dreaming";
+import startups from "./startups";
+import kobeBryant from "./kobeBryant";
+import lucidDreaming from "./lucidDreaming";
 import magicTricks from "./magicTricks";
 import makePeopleLikeYou from "./makePeopleLikeYou";
 import meditation from "./meditation";
-import motivationalTalk from "./motivationalTalk";
+import motivation from "./motivation";
 import positiveThinking from "./positiveThinking";
 import programmingLanguages from "./programmingLanguages";
 import relievingCough from "./relievingCough";
 import returnToTheMoon from "./returnToTheMoon";
 import selfLove from "./selfLove";
-import spaceImages from "./spaceImages";
+import spaceExploration from "./spaceExploration";
 import studyEfficiently from "./studyEfficiently";
 import ukraineWar from "./ukraineWar";
 
-const videos = [lucidDreaming, chatGPT, programmingLanguages, climateChange, meditation, ukraineWar, becomingRich, positiveThinking, bookReview, makePeopleLikeYou, elonMusk, returnToTheMoon, joiningAStartup, jobInterview, investing, studyEfficiently, datingAdvice, selfLove, coronavirus, happiness, relievingCough, healthySleep, kobyBryant, motivationalTalk, crispr, algebra, geopolitics, artificialInteligence, spaceImages, exoplanets, confidence, magicTricks];
+const videos = [math, artificialInteligence, becomingRich, bookReview, chatGPT, climateChange, confidence, coronavirus, crispr, datingAdvice, elonMusk, exoplanets, geopolitics, happiness, healthySleep, investing, jobInterview, startups, kobeBryant, lucidDreaming, magicTricks, makePeopleLikeYou, meditation, motivation, positiveThinking, programmingLanguages, relievingCough, returnToTheMoon, selfLove, spaceExploration, studyEfficiently, ukraineWar];
 
 export default videos;
+
