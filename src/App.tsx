@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import "./App.css";
-import videos from "./transcripts/chinese";
+import videos from "./transcripts/german/videos/index";
 
 interface Dict {
   [key: string]: {
@@ -18,7 +18,7 @@ function App() {
     const dict: Dict = {};
     for (const video of videos) {
       if (!video.videoId) console.log("You forgot the videoId!");
-      const arr = video.transcript.pinyin.toLowerCase().split(" ");
+      const arr = video.words;
       const foundInDict: FoundInDict = {};
       for (const word of arr) {
         if (!dict[word]) dict[word] = { occurences: 0, foundIn: 0 };
