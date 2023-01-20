@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import "./App.css";
 import videos from "./transcripts/german/videos/index";
+import frequencies from "./frequencyList.json";
 
 interface Dict {
   [key: string]: {
@@ -44,6 +45,10 @@ function App() {
       }
     });
     console.log(frequencies);
+
+    for (let i = 0; i < frequencies.length; i++) {
+      console.log(frequencies[i].key);
+    }
   }, []);
   return <div className="App"></div>;
 }
